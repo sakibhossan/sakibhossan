@@ -1,8 +1,8 @@
 
-
+![Web Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/368701782_2025338647812338_2053622233191078535_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeERGzJ7M9vp9SL2z5Pg0K02MoF9AU7Z4qgygX0BTtniqJsqG96Gl-rQTxozsArOfKB69yIYN-oaS4xSnPkQ72cl&_nc_ohc=FWzZSthMTvoAX8SBWP4&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfBQOnBo0n5GNKkgQ-UXXaEOE_gB7tWHJr1aHIFQ_0z3Kw&oe=64E71584)
 ### Hi there 👋, I am sakib hossain
 #### Web Developer
-![Web Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/368701782_2025338647812338_2053622233191078535_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeERGzJ7M9vp9SL2z5Pg0K02MoF9AU7Z4qgygX0BTtniqJsqG96Gl-rQTxozsArOfKB69yIYN-oaS4xSnPkQ72cl&_nc_ohc=FWzZSthMTvoAX8SBWP4&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfBQOnBo0n5GNKkgQ-UXXaEOE_gB7tWHJr1aHIFQ_0z3Kw&oe=64E71584)
+
 My curiosity and drive push me to constantly expand my skillset and stay up-to-date with the latest web development trends and technologies. While I may be relatively new to the field, I am committed to continuous learning and improvement. I eagerly tackle challenges, seeking creative solutions and collaborating with senior developers to refine my skills.
 
 Skills: REACT / JS / HTML / CSS/TAILWIND.CSS/BOOTSTRAP 5/NODE.JS/EXPRESS.JS/MONGO DB(NO SQL)/STRIPE.JS
